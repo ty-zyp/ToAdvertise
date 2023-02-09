@@ -12,9 +12,9 @@
 
 说明：清除百度的顽固广告，还你一片干净土地.
 
-👉 [点击直接安装 RemoveAd.js 脚本](https://github.com/ty-zyp/Tampermonkey/raw/main/RemoveAd.user.js)
+👉 [点击直接安装 RemoveAd.js 脚本](https://github.com/ty-zyp/ToAdvertise/raw/main/RemoveAd.user.js)
 
-👉 [点击直接安装 RemoveCSDNad.user.js 脚本](https://github.com/ty-zyp/Tampermonkey/raw/main/RemoveCSDNad.user.js)
+👉 [点击直接安装 RemoveCSDNad.user.js 脚本](https://github.com/ty-zyp/ToAdvertise/raw/main/RemoveCSDNad.user.js)
 
 ![base664](./assets/start3.png)
 

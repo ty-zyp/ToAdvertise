@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         真·百度去除广告
-// @namespace    https://github.com/ty-zyp/Tampermonkey
+// @namespace    https://github.com/ty-zyp/ToAdvertise
 // @version      0.2
 // @description  删除百度的垃圾广告
 // @author       ty-zyp
 // @match        *://*.baidu.com/*
-// @supportURL   https://github.com/ty-zyp/Tampermonkey
-// @updateURL    https://github.com/ty-zyp/Tampermonkey/RemoveAd.js
+// @supportURL   https://github.com/ty-zyp/ToAdvertise
+// @updateURL    https://github.com/ty-zyp/ToAdvertise/RemoveAd.js
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
 

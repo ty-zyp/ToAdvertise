@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         真·CSDN去除广告
-// @namespace    https://github.com/ty-zyp/Tampermonkey
+// @namespace    https://github.com/ty-zyp/ToAdvertise
 // @version      0.1
 // @description  删除CSDN博客的垃圾广告
 // @author       ty-zyp
 // @match        *://*.csdn.net/*
-// @supportURL   https://github.com/ty-zyp/Tampermonkey
-// @updateURL    https://github.com/ty-zyp/Tampermonkey/RemoveAd.js
+// @supportURL   https://github.com/ty-zyp/ToAdvertise
+// @updateURL    https://github.com/ty-zyp/ToAdvertise/RemoveAd.js
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
 
