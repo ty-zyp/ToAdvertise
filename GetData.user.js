@@ -20,7 +20,7 @@ var format = function (s, c) {
 }
     //导出html表格为 excel 文件
 function toExcel() {
-  Array.from($("#data")).forEach(item=>{
+  Array.from($("#data td")).forEach(item=>{
     const flag = item.style.display;
     if(flag==='none'){
         console.log(item.style);
