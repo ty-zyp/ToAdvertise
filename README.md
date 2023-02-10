@@ -16,6 +16,8 @@
 
 👉 [点击直接安装 RemoveCSDNad.user.js 脚本](https://github.com/ty-zyp/ToAdvertise/raw/master/RemoveCSDNad.user.js)
 
+👉 [点击直接安装 GetData.user.js 脚本](https://github.com/ty-zyp/ToAdvertise/raw/master/GetData.user.js)  
+
 ![base664](./assets/start3.png)
 
 ## 安装步骤
