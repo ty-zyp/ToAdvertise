@@ -20,6 +20,13 @@ var format = function (s, c) {
 }
     //导出html表格为 excel 文件
 function toExcel() {
+  Array.from($("#data")).forEach(item=>{
+    const flag = item.style.display;
+    if(flag==='none'){
+        console.log(item.style);
+        item.parentNode.removeChild(item)
+    }    
+  })
   var excelContent = $("#data").html();
   var excelFile = "<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>";
   excelFile += "<head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>{worksheet}</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head>";
